@@ -1,3 +1,4 @@
+// Halaman utama katalog tanaman
 import React from 'react';
 import { StyleSheet, Text, View, ScrollView, SafeAreaView } from 'react-native';
 import Header from './components/Header';
