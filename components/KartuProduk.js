@@ -1,3 +1,4 @@
+// Komponen untuk menampilkan kartu produk tanaman
 import React from 'react';
 import { View, Text, Image, StyleSheet } from 'react-native';
 import Lencana from './Lencana';
